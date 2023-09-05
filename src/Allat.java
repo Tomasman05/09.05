@@ -17,6 +17,6 @@ public class Allat {
         System.out.println(nevLekeres()+": "+hang);
     }
     public void ennyimvan(int penz){
-        System.out.println(penz+"-Ft van nálam, te kormos szar.");
+        System.out.println("Járókelő: "+penz+"-Ft van nálam, te kormos szar.");
     }
 }
