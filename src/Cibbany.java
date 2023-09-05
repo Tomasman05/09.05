@@ -1,3 +1,4 @@
+// asd
 public class Cibbany extends Allat{
     String weapon = "kés";
     public void narkozik(){

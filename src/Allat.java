@@ -1,3 +1,4 @@
+// asd
 public class Allat {
     private String nev;
     int apro;
